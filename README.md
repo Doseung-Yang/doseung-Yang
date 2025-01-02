@@ -8,8 +8,3 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Vercel-000000?style=round-square&logo=vercel&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=round-square&logo=supabase&logoColor=white"/>
-
- 
-<p align="right">
-<a href="https://velog.io/@doseung_yang/posts"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
-<a href="https://www.instagram.com/97__seung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
