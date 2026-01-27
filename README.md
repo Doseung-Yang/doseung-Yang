@@ -13,6 +13,7 @@
 🐕 Backend  
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=round-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=round-square&logo=supabase&logoColor=white"/>
 
 <br />
 
@@ -24,5 +25,4 @@
 
 🦅 Infra  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=round-square&logo=vercel&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=round-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=round-square&logo=vercel&logoColor=white"/>
